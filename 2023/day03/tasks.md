@@ -16,3 +16,13 @@ Task: What is the linux command to
 
 
 Reference: https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/
+
+
+# Completed Day  - 03 Successfully
+
+I got to know that just learning these commands once isn't enough. We have to look back at these once in a while. 
+
+It helps us to memorruze and also implement these in working period easily and with no time. 
+
+Using the reference provided, helped to revise all the commands easily and it would play crucial role in learning the commands for eeveryone who are new to the DevOps. 
+
