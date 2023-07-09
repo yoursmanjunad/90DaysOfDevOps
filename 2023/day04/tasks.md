@@ -27,3 +27,10 @@
  Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
  YouTube Vedio: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
+
+
+# Completed Day 04 Successfully 
+
+Learnt about the Kernel, Bah, few bash scripting stuff and commands. 
+
+Really excited to work on this further and I'll doccument all my learning about the script in this repo seperately a Directory for the Shell Scripting. 
